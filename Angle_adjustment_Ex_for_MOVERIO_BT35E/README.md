@@ -6,7 +6,7 @@
 
 ## 概要
 これは2020年1月に作成した心理物理学実験のプログラムです。
-2019年3月に作成した[Angle-adjustment-Ex](https://github.com/Fukky21/Angle-adjustment-Ex)とは異なり、
+2019年3月に作成した[Angle_adjustment_Ex](https://github.com/Fukky21/kaneko-lab-data/tree/master/Angle_adjustment_Ex)とは異なり、
 このプログラムではスマートグラス(EPSON MOVERIO BT-35E)を用います。
 左右の眼球それぞれにラインを提示し、観察者はこの2本のラインを水平になるように角度を調節します。
 2本のラインは左右を独立して動かすことも、同時に動かすこともできます。
