@@ -14,6 +14,10 @@
 - 追従眼球運動時の視覚刺激の知覚速度を調べた
 - Pupil LabsのHTC Vive Add-Onを用いて眼球運動を計測した
 
+## Angle_adjustment_Ex
+- ノニアスラインの角度調節を行う心理物理学実験プログラム
+- ヘッドマウントディスプレイ(HTC VIVE)を使用する
+
 ## Angle_adjustment_Ex_for_MOVERIO_BT35E
-- ノニアスライン角度調節プログラム
+- ノニアスラインの角度調節を行う心理物理学実験プログラム
 - スマートグラス(MOVERIO BT-35E)を使用する
